@@ -26,7 +26,6 @@
 # INFO:
 # Prints current path and gets current directory name only
 # and uses this as the name of the session
-
 tmuxim_autoname_session(){
   NAME=$(pwd | sed -E 's/^.*\/(.*)$/\1/g')
   tmux new -s "$NAME"
