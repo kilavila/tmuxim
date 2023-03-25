@@ -15,6 +15,7 @@
 # tr   - (should be installed by default as part of coreutils)
 
 # USAGE:
+# Place this script in your ~/.bashrc.d directory and run the following command:
 # $ tmuxim
 # Add the following line in your ~/.bashrc to get Ctrl+t to run tmuxim:
 # bind '"\C-t":"tmuxim\n"'
