@@ -8,7 +8,7 @@
 # Author: Christer Kilavik
 # https://github.com/kilavila/tmuxim
 # ------------------------------------------
-# This script requires the following commands to be installed:
+# This script requires the following packages to be installed:
 # tmux - https://github.com/tmux/tmux/wiki/Installing
 # fzf  - https://github.com/junegunn/fzf
 # tr   - (should be installed by default as part of coreutils)
